@@ -1,7 +1,5 @@
 # Introducción a Git y GitHub
 
-![Git and GitHub](https://i.imgur.com/r4mJ4ba.png)
-
 Este es un proyecto simple que tiene como objetivo explicar los conceptos básicos de Git y GitHub. Git es un sistema de control de versiones que te permite mantener un registro de los cambios realizados en tus archivos a lo largo del tiempo, mientras que GitHub es una plataforma de alojamiento de repositorios Git que te permite colaborar con otros desarrolladores en tus proyectos.
 
 ## ¿Qué es Git?
@@ -10,8 +8,6 @@ Git es un sistema de control de versiones que te permite mantener un registro de
 
 ### Comandos básicos de Git
 
-![Git commands](https://i.imgur.com/Y5GLtIs.png)
-
 - `git init`: Inicia un repositorio Git vacío en tu directorio actual.
 - `git add <archivo>`: Agrega un archivo al área de staging, lo que significa que se incluirá en el próximo commit.
 - `git commit -m "<mensaje>"`: Crea un commit con los cambios agregados en el área de staging y el mensaje especificado.
@@ -19,8 +15,6 @@ Git es un sistema de control de versiones que te permite mantener un registro de
 - `git log`: Muestra el historial de commits en tu repositorio Git.
 
 ## ¿Qué es GitHub?
-
-![GitHub](https://i.imgur.com/y2JJejP.png)
 
 GitHub es una plataforma de alojamiento de repositorios Git que te permite colaborar con otros desarrolladores en tus proyectos. Puedes subir tus repositorios Git a GitHub para compartirlos con otros, colaborar en proyectos abiertos y contribuir a otros proyectos.
 
